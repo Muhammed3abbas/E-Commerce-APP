@@ -1,0 +1,15 @@
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\bin\Debug\net8.0\E-Commerce.BLL.deps.json
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\bin\Debug\net8.0\E-Commerce.BLL.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\bin\Debug\net8.0\E-Commerce.BLL.pdb
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\bin\Debug\net8.0\E-Commerce.DAL.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commerce.BLL.csproj.AssemblyReference.cache
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commerce.BLL.AssemblyInfoInputs.cache
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commerce.BLL.AssemblyInfo.cs
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commerce.BLL.csproj.CoreCompileInputs.cache
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commerce.BLL.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\refint\E-Commerce.BLL.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commerce.BLL.pdb
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\ref\E-Commerce.BLL.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commer.FD05C252.Up2Date
