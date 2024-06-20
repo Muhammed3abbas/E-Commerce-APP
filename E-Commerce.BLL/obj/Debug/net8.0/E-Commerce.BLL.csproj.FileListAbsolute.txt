@@ -13,3 +13,4 @@ D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\refint
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commerce.BLL.pdb
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\ref\E-Commerce.BLL.dll
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commer.FD05C252.Up2Date
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.BLL\obj\Debug\net8.0\E-Commerce.BLL.sourcelink.json

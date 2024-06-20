@@ -146,3 +146,6 @@ D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\obj\Debug\net8.0\ref\E-
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\obj\Debug\net8.0\E-Commer.DCCEAFB6.Up2Date
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\bin\Debug\net8.0\AutoMapper.dll
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\bin\Debug\net8.0\E-Commerce.Api.staticwebassets.runtime.json
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\obj\Debug\net8.0\E-Commerce.Api.sourcelink.json
