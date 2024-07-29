@@ -6,8 +6,8 @@ D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.DAL\obj\Debug\net8.0\E-Comm
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfoInputs.cache
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfo.cs
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.sourcelink.json
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.dll
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.DAL\obj\Debug\net8.0\refint\E-Commerce.DAL.dll
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
-D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.sourcelink.json

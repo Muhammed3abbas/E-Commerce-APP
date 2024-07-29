@@ -20,6 +20,10 @@ namespace E_Commerce.BLL.Repositories
             _context = storeContext;
         }
 
+        public async Task<T> GetByIdAsync(int id)
+        {
+            return await _context.Set<T>().FindAsync(id);
+        }
 
 
         public async Task<IReadOnlyList<T>> GelAllAsync()
@@ -30,8 +34,8 @@ namespace E_Commerce.BLL.Repositories
                 .ToListAsync();
         
 
-        public async Task<T> GetAsync(int id) =>
-            await _context.Set<T>().FindAsync(id);
+        //public async Task<T> GetAsync(int id) =>
+        //    await _context.Set<T>().FindAsync(id);
 
         public async Task<T> GetEntityWithSpecAsync(ISpecification<T> spec)
             => await ApplySpecification(spec)
@@ -52,6 +56,10 @@ namespace E_Commerce.BLL.Repositories
         {
             _context.Set<T>().Add(entity);
         }
+
+        public async Task AddAsync(T entity)
+            => _context.Set<T>().AddAsync(entity);
+
 
         public void Update(T entity)
         {

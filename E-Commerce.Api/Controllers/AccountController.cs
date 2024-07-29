@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using E_Commerce.Api.Dtos;
 using E_Commerce.Api.Errors;
+using E_Commerce.BLL.Interfaces;
 using E_Commerce.DAL.Entities.Identity;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
@@ -17,11 +18,14 @@ namespace E_Commerce.Api.Controllers
         private readonly SignInManager<AppUser> _signInManager;
         //private readonly ITokenService _tokenService;
         private readonly IMapper _mapper;
+        private readonly IAuthService _authService;
+
         public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager,
             //ITokenService tokenService,
-            IMapper mapper)
+            IMapper mapper, IAuthService authService)
         {
             _mapper = mapper;
+            _authService = authService;
             //_tokenService = tokenService;
             _signInManager = signInManager;
             _userManager = userManager;
@@ -41,9 +45,8 @@ namespace E_Commerce.Api.Controllers
             return new UserDto
             {
                 Email = user.Email,
-                //Token = _tokenService.CreateToken(user),
+                Token = await _authService.CreateTokenAsync(user, _userManager),
                 DisplayName = user.DisplayName,
-                Token = "Token"
 
             };
         }
@@ -66,10 +69,8 @@ namespace E_Commerce.Api.Controllers
             return new UserDto
             {
                 DisplayName = user.DisplayName,
-                //Token = _tokenService.CreateToken(user),
+                Token = await _authService.CreateTokenAsync(user, _userManager),
                 Email = user.Email
-                ,
-                Token = "Token"
             };
 
 

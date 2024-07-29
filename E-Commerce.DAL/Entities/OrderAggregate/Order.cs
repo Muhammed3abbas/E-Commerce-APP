@@ -13,14 +13,16 @@ namespace E_Commerce.DAL.Entities.OrderAggregate
         {
         }
         public Order(ICollection<OrderItem> orderItems, string buyerEmail, Address shipToAddress,
-            DeliveryMethod deliveryMethod, decimal subtotal, string paymentIntentId)
+            DeliveryMethod deliveryMethod, decimal subtotal
+            //, string paymentIntentId
+            )
         {
             BuyerEmail = buyerEmail;
             ShipToAddress = shipToAddress;
             DeliveryMethod = deliveryMethod;
             OrderItems = orderItems;
             Subtotal = subtotal;
-            PaymentIntentId = paymentIntentId;
+            //PaymentIntentId = paymentIntentId;
         }
 
         public string BuyerEmail { get; set; }
