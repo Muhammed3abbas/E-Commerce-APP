@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace E_Commerce.DAL.Entities.Identity
@@ -17,6 +18,7 @@ namespace E_Commerce.DAL.Entities.Identity
         public string Zipcode { get; set; }
 
         public string AppUserId { get; set; }
+        [JsonIgnore]
         public AppUser AppUser { get; set; }
     }
 }

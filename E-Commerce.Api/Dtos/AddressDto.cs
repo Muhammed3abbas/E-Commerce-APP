@@ -21,8 +21,8 @@ namespace E_Commerce.Api.Dtos
         [Required]
         public string Country { get; set; }
 
-        //[Required]
-        //public string Zipcode { get; set; }
+        [Required]
+        public string Zipcode { get; set; }
     }
 
 }

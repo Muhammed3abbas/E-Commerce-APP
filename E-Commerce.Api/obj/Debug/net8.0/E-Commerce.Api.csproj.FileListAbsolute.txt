@@ -152,3 +152,7 @@ D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\obj\Debug\net8.0\refint
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\obj\Debug\net8.0\E-Commerce.Api.pdb
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\obj\Debug\net8.0\E-Commerce.Api.genruntimeconfig.cache
 D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\obj\Debug\net8.0\ref\E-Commerce.Api.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\BackEnd\08 ASP Web APIs\E-Commerce App\E-Commerce.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

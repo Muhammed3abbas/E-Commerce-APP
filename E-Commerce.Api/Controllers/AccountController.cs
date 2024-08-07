@@ -1,11 +1,14 @@
 ﻿using AutoMapper;
 using E_Commerce.Api.Dtos;
 using E_Commerce.Api.Errors;
+using E_Commerce.Api.Extensions;
 using E_Commerce.BLL.Interfaces;
 using E_Commerce.DAL.Entities.Identity;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace E_Commerce.Api.Controllers
 {
@@ -16,6 +19,7 @@ namespace E_Commerce.Api.Controllers
 
         private readonly UserManager<AppUser> _userManager;
         private readonly SignInManager<AppUser> _signInManager;
+
         //private readonly ITokenService _tokenService;
         private readonly IMapper _mapper;
         private readonly IAuthService _authService;
@@ -75,5 +79,50 @@ namespace E_Commerce.Api.Controllers
 
 
         }
+
+
+        [HttpGet]
+        [Authorize]
+        public async Task<ActionResult<UserDto>> GetCurrentUser()
+        {
+            var email = User.FindFirstValue(ClaimTypes.Email);
+            var user = await _userManager.FindByEmailAsync(email);
+            return Ok(new UserDto()
+            {
+                DisplayName = user.DisplayName,
+                Email = user.Email,
+                Token = await _authService.CreateTokenAsync(user, _userManager)
+
+            }
+            );
+        }
+
+        [Authorize]
+        [HttpGet("address")]
+        public async Task<ActionResult<AddressDto>> GetUserAddress()
+        {
+
+            var user = await _userManager.FindUserByClaimsPrincipleWithAddress(User);
+
+
+            return Ok(user.Address);
+            return _mapper.Map<Address, AddressDto>(user.Address);
+        }
+
+        [Authorize]
+        [HttpPut("address")]
+        public async Task<ActionResult<AddressDto>> UpdateUserAddress(AddressDto address)
+        {
+            var user = await _userManager.FindUserByClaimsPrincipleWithAddress(User);
+
+            user.Address = _mapper.Map<AddressDto, Address>(address);
+
+            var result = await _userManager.UpdateAsync(user);
+
+            if (result.Succeeded) return Ok(_mapper.Map<AddressDto>(user.Address));
+
+            return BadRequest(new ApiResponse(400)+"Problem updating the user");
+        }
+
     }
 }

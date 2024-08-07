@@ -3,94 +3,14 @@
   "WorkspaceRootPath": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9999D74D-5A0C-489F-8ED9-DBF25151E13B}|..\\E-Commerce.Service\\E-Commerce.Service.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\extensions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:extensions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2755060-1C2D-489A-B4E7-BCA22CEFDE40}|..\\E-Commerce.BLL\\E-Commerce.BLL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1FB9A44-335F-40EA-B9AF-4A0E9A6AFC8C}|..\\E-Commerce.DAL\\E-Commerce.DAL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.dal\\identity\\appidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1FB9A44-335F-40EA-B9AF-4A0E9A6AFC8C}|..\\E-Commerce.DAL\\E-Commerce.DAL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.dal\\entities\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\extensions\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:extensions\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9999D74D-5A0C-489F-8ED9-DBF25151E13B}|..\\E-Commerce.Service\\E-Commerce.Service.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2755060-1C2D-489A-B4E7-BCA22CEFDE40}|..\\E-Commerce.BLL\\E-Commerce.BLL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.bll\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2755060-1C2D-489A-B4E7-BCA22CEFDE40}|..\\E-Commerce.BLL\\E-Commerce.BLL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.bll\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2755060-1C2D-489A-B4E7-BCA22CEFDE40}|..\\E-Commerce.BLL\\E-Commerce.BLL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.bll\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9999D74D-5A0C-489F-8ED9-DBF25151E13B}|..\\E-Commerce.Service\\E-Commerce.Service.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FB9A44-335F-40EA-B9AF-4A0E9A6AFC8C}|..\\E-Commerce.DAL\\E-Commerce.DAL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.dal\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\helpers\\orderitemurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:helpers\\orderitemurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FB9A44-335F-40EA-B9AF-4A0E9A6AFC8C}|..\\E-Commerce.DAL\\E-Commerce.DAL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.dal\\entities\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\dtos\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:dtos\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FB9A44-335F-40EA-B9AF-4A0E9A6AFC8C}|..\\E-Commerce.DAL\\E-Commerce.DAL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.dal\\entities\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2755060-1C2D-489A-B4E7-BCA22CEFDE40}|..\\E-Commerce.BLL\\E-Commerce.BLL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.bll\\specifications\\orderspecs\\ordersspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FB9A44-335F-40EA-B9AF-4A0E9A6AFC8C}|..\\E-Commerce.DAL\\E-Commerce.DAL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.dal\\entities\\orderaggregate\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FB9A44-335F-40EA-B9AF-4A0E9A6AFC8C}|..\\E-Commerce.DAL\\E-Commerce.DAL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.dal\\data\\dataseeds\\delivery.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.api\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AADA968-908C-4AD2-B956-15671A549B35}|E-Commerce.Api.csproj|solutionrelative:dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1FB9A44-335F-40EA-B9AF-4A0E9A6AFC8C}|..\\E-Commerce.DAL\\E-Commerce.DAL.csproj|d:\\backend\\08 asp web apis\\e-commerce app\\e-commerce.dal\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -100,332 +20,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAA+wCMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T07:12:06.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "Controllers\\OrdersController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwDIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T12:01:05.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.BLL\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.BLL\\Interfaces\\IOrderService.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.BLL\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "..\\E-Commerce.BLL\\Interfaces\\IOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T12:32:46.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAkwCMAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T08:34:12.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Service\\AuthService.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.Service\\AuthService.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Service\\AuthService.cs",
-              "RelativeToolTip": "..\\E-Commerce.Service\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T09:19:30.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAJsAAAAAAAAAAAAowKcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T13:24:01.059Z",
+              "WhenOpened": "2024-07-30T09:04:42.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IdentityServiceExtensions.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Extensions\\IdentityServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\IdentityServiceExtensions.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Extensions\\IdentityServiceExtensions.cs",
-              "RelativeToolTip": "Extensions\\IdentityServiceExtensions.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBIAAAAIAAAA",
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.DAL\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "..\\E-Commerce.DAL\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T11:06:49.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T09:04:26.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-18T09:37:38.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppIdentityDbContextSeed.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Identity\\AppIdentityDbContextSeed.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.DAL\\Identity\\AppIdentityDbContextSeed.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Identity\\AppIdentityDbContextSeed.cs",
-              "RelativeToolTip": "..\\E-Commerce.DAL\\Identity\\AppIdentityDbContextSeed.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T12:32:32.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.Service\\ProductService.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Service\\ProductService.cs",
-              "RelativeToolTip": "..\\E-Commerce.Service\\ProductService.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAIwDMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T07:10:27.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationServicesExtensions.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Extensions\\ApplicationServicesExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\ApplicationServicesExtensions.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Extensions\\ApplicationServicesExtensions.cs",
-              "RelativeToolTip": "Extensions\\ApplicationServicesExtensions.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCoAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T11:05:01.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.BLL\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.BLL\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.BLL\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "..\\E-Commerce.BLL\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAowBAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:14:58.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.BLL\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.BLL\\Interfaces\\IProductService.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.BLL\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "..\\E-Commerce.BLL\\Interfaces\\IProductService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T07:07:18.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.BLL\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.BLL\\Interfaces\\IAuthService.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.BLL\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "..\\E-Commerce.BLL\\Interfaces\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T09:18:06.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Service\\OrderService.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.Service\\OrderService.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Service\\OrderService.cs",
-              "RelativeToolTip": "..\\E-Commerce.Service\\OrderService.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAvwFgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T13:22:29.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Helpers\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "Helpers\\MappingProfiles.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Helpers\\MappingProfiles.cs",
-              "RelativeToolTip": "Helpers\\MappingProfiles.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAADwvxYAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T12:54:39.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StoreContextSeed.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\StoreContextSeed.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.DAL\\StoreContextSeed.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\StoreContextSeed.cs",
-              "RelativeToolTip": "..\\E-Commerce.DAL\\StoreContextSeed.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAQwDEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:09:30.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderItemUrlResolver.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Helpers\\OrderItemUrlResolver.cs",
-              "RelativeDocumentMoniker": "Helpers\\OrderItemUrlResolver.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Helpers\\OrderItemUrlResolver.cs",
-              "RelativeToolTip": "Helpers\\OrderItemUrlResolver.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:31:29.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "OrderToReturnDto.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Dtos\\OrderToReturnDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\OrderToReturnDto.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Dtos\\OrderToReturnDto.cs",
-              "RelativeToolTip": "Dtos\\OrderToReturnDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBQwAQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T12:33:24.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OrdersSpecifications.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.BLL\\Specifications\\OrderSpecs\\OrdersSpecifications.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.BLL\\Specifications\\OrderSpecs\\OrdersSpecifications.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.BLL\\Specifications\\OrderSpecs\\OrdersSpecifications.cs",
-              "RelativeToolTip": "..\\E-Commerce.BLL\\Specifications\\OrderSpecs\\OrdersSpecifications.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAArwBUAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T12:02:55.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Entities\\OrderAggregate\\OrderItem.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.DAL\\Entities\\OrderAggregate\\OrderItem.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Entities\\OrderAggregate\\OrderItem.cs",
-              "RelativeToolTip": "..\\E-Commerce.DAL\\Entities\\OrderAggregate\\OrderItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T11:16:37.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Entities\\OrderAggregate\\Order.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.DAL\\Entities\\OrderAggregate\\Order.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Entities\\OrderAggregate\\Order.cs",
-              "RelativeToolTip": "..\\E-Commerce.DAL\\Entities\\OrderAggregate\\Order.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAArwBwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T11:12:15.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "OrderItemDto.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Dtos\\OrderItemDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\OrderItemDto.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Dtos\\OrderItemDto.cs",
-              "RelativeToolTip": "Dtos\\OrderItemDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:29:53.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "delivery.json",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Data\\DataSeeds\\delivery.json",
-              "RelativeDocumentMoniker": "..\\E-Commerce.DAL\\Data\\DataSeeds\\delivery.json",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Data\\DataSeeds\\delivery.json",
-              "RelativeToolTip": "..\\E-Commerce.DAL\\Data\\DataSeeds\\delivery.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-03T15:23:22.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AddressDto.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Dtos\\AddressDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\AddressDto.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.Api\\Dtos\\AddressDto.cs",
-              "RelativeToolTip": "Dtos\\AddressDto.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:43:14.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 1,
               "Title": "Address.cs",
-              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Entities\\OrderAggregate\\Address.cs",
-              "RelativeDocumentMoniker": "..\\E-Commerce.DAL\\Entities\\OrderAggregate\\Address.cs",
-              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Entities\\OrderAggregate\\Address.cs",
-              "RelativeToolTip": "..\\E-Commerce.DAL\\Entities\\OrderAggregate\\Address.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAAAAAA",
+              "DocumentMoniker": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Entities\\Identity\\Address.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.DAL\\Entities\\Identity\\Address.cs",
+              "ToolTip": "D:\\BackEnd\\08 ASP Web APIs\\E-Commerce App\\E-Commerce.DAL\\Entities\\Identity\\Address.cs",
+              "RelativeToolTip": "..\\E-Commerce.DAL\\Entities\\Identity\\Address.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:44:29.248Z"
+              "WhenOpened": "2024-07-30T09:04:12.686Z"
             }
           ]
         }

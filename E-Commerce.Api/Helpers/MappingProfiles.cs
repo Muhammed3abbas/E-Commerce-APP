@@ -2,7 +2,8 @@
 using E_Commerce.Api.Dtos;
 using E_Commerce.DAL.Entities;
 using E_Commerce.DAL.Entities.OrderAggregate;
-
+using userAddress= E_Commerce.DAL.Entities.Identity.Address ;
+using OrderAddress = E_Commerce.DAL.Entities.OrderAggregate.Address;
 namespace E_Commerce.Api.Helpers
 {
     public class MappingProfiles:Profile
@@ -15,7 +16,7 @@ namespace E_Commerce.Api.Helpers
                 .ForMember(d => d.PictureUrl, o => o.MapFrom<ProductUrlResolver>());
             CreateMap<CustomerBasketDto, CustomerBasket>();
             CreateMap<BasketItemDto, BasketItem>();
-            CreateMap<AddressDto, Address>();
+            CreateMap<AddressDto, OrderAddress>();
 
             CreateMap<Order, OrderToReturnDto>()
                 .ForMember(d => d.DeliveryMethod, o => o.MapFrom(s => s.DeliveryMethod.ShortName))
@@ -28,6 +29,7 @@ namespace E_Commerce.Api.Helpers
                 .ForMember(d => d.PictureUrl, o => o.MapFrom(s => s.ItemOrdered.PictureUrl))
                 .ForMember(d => d.PictureUrl, o => o.MapFrom<OrderItemUrlResolver>())
                 ;
+            CreateMap<AddressDto, userAddress>().ReverseMap();
 
 
         }
